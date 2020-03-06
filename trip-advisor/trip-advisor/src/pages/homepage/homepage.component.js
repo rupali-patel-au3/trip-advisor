@@ -18,7 +18,7 @@ const HomePage = props => {
     <div>
       <Jumbotron fluid className="jb">
         <Container fluid>
-          <UncontrolledDropdown>
+          <UncontrolledDropdown className="button">
             <DropdownToggle>
               <h1>Where To ?</h1>
             </DropdownToggle>
